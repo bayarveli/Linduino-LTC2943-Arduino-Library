@@ -7,4 +7,4 @@ Similarly, the orijinal application code is written for DC1812A demo board and w
 - Resetting alert status is added.
 - Demo board dependencies are removed to use the application code for any LTC2943 hardware + Arduino platform.
 
-Updated library and application is tested with Arduino Uno and newly designed LTC2943 battery management card. [Click](https://www.youtube.com/watch?v=_QU0Dwb8aWI) for the test video. For more information, check the [blog](http://www.velibayar.net/).
+Updated library and application is tested with Arduino Uno and newly designed LTC2943 battery management card. [Click](https://www.youtube.com/watch?v=_QU0Dwb8aWI) for the test video. For more information, check the [blog](http://www.velibayar.net/?p=109).
