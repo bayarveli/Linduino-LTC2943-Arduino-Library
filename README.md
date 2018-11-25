@@ -1,5 +1,5 @@
 ## Linduino-LTC2943-Arduino-Library
-Linear Technology has Linduino platform which is Arduino compatible. The Linduino Library ( can be downloaded from [here] (http://www.linear.com/docs/43958) ) has developed for use of this platform.
+Linear Technology has Linduino platform which is Arduino compatible. The Linduino Library ( can be downloaded from [here] (http://www.linear.com/docs/43958) ) has develoaped for use of this platform.
 
 Here, the library is filtered for LTC2943 battery management IC. A modification about resetting alert status is added to the library.
 
